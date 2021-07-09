@@ -5,7 +5,7 @@
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhojuno"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img 
-        src="https://img.shields.io/github/followers/Junhojuno?label=Junhojuno%20Followers&style=social"
+        src="https://img.shields.io/github/followers/Junhojuno?label=uno%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
