@@ -1,7 +1,14 @@
-### Hi there 👋
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunhojuno)](https://hits.seeyoufarm.com)                    
 
+### Oriented to Easy ML 👋
+- ML Engineer who makes people's lives more safe and convenience
+
+### Interested in
+- Object Detection and Tracking with Deep Learning ⚡
+- making the codes easy to read and clear
+- recently ML pipeline to be comfortable : `MLOps`
+- logical thinkning
+- using Mathematics in real world problem 
 
 <!--
 **Junhojuno/Junhojuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
