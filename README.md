@@ -10,7 +10,8 @@
 </div>
 
 ### Oriented to Easy ML 👋
-- ML Engineer who makes people's lives more safe and convenience
+- ML Engineer who works for people's safety
+- major in Object Detection and Tracking
 
 ### Interested in
 - ⚡ Object Detection and Tracking with Deep Learning 
