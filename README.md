@@ -9,16 +9,16 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-### Oriented to Easy ML 👋
-- ML Engineer who works for people's safety
-- major in Object Detection and Tracking
+### Introduce 👋
+- ML Engineer who works at [Weelo](https://weelo.fit/land)
+- 2D Pose Estimation now, experienced with Object Detection/Tracking.
 
 ### Interested in
-- ⚡ Object Detection and Tracking with Deep Learning 
-- 🌱 making the codes easy to read and clear
-- 👯 recently ML pipeline to be comfortable : `MLOps`
+- ⚡  code should be clean and clear
+- 🌱 big fan of Tensorflow (can also use Pytorch :))
 - 🤔 logical thinkning
 - 🔭 using Mathematics in real world problem 
+- 👯 recently ML pipeline `MLOps`
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
