@@ -11,14 +11,19 @@
 
 ### Introduce 👋
 - ML Engineer who works at [Weelo](https://weelo.fit/land)
-- 2D Pose Estimation now, experienced with Object Detection/Tracking.
+- now struggle to increase the performance of pose model.
 
-### Interested in
-- ⚡  code should be clean and clear
-- 🌱 big fan of Tensorflow (can also use Pytorch :))
-- 🤔 logical thinkning
-- 🔭 using Mathematics in real world problem 
-- 👯 recently ML pipeline `MLOps`
+### Experienced 🤔
+- Find and Tracking missing person in multi-camera multi-object environment.
+- Detect unexpected & dangerous situation in tunnels and construction sites.
+- Re-identify the objects from different camera(on robot).
+
+### Interested in 🔭
+- configure simple and clear codes.
+- Tensorflow (can also use Pytorch :))
+- logical thinkning
+- applied mathematics in real world problem 
+- recently ML pipeline `MLOps`
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
