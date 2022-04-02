@@ -11,7 +11,8 @@
 
 ### Introduce 👋
 - ML Engineer who works at [Weelo](https://weelo.fit/land)
-- now struggle to increase the performance of pose model.
+- Focus on human pose estimation.
+- 
 
 ### Experienced 🤔
 - Find and Tracking missing person in multi-camera multi-object environment.
@@ -19,11 +20,9 @@
 - Re-identify the objects from different camera(on robot).
 
 ### Interested in 🔭
-- configure simple and clear codes.
-- Tensorflow (can also use Pytorch :))
-- logical thinkning
-- applied mathematics in real world problem 
-- recently ML pipeline `MLOps`
+- Clear codes and module configuration
+- Applied mathematics not just as a theory
+- Prefer to automate repetitive tasks
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
