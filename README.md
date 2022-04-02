@@ -12,7 +12,6 @@
 ### Introduce 👋
 - ML Engineer who works at [Weelo](https://weelo.fit/land)
 - Focus on human pose estimation.
-- 
 
 ### Experienced 🤔
 - Find and Tracking missing person in multi-camera multi-object environment.
