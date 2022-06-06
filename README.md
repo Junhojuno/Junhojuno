@@ -10,8 +10,9 @@
 </div>
 
 ### Introduce 👋
-- ML Engineer who works at [Weelo](https://weelo.fit/land)
-- Focus on human pose estimation.
+This is Junho Kim, a 3rd year ML Engineer who is struggling in the field of computer vision. <br>
+At first, I watched this field just interesting and fun. but recently, I'm looking into the tech from the perspective of what value can be created in business :)
+I like to define problems by myself and work in a goal-oriented way.
 
 ### Experienced 🤔
 - Find and Tracking missing person in multi-camera multi-object environment.
@@ -19,9 +20,9 @@
 - Re-identify the objects from different camera(on robot).
 
 ### Interested in 🔭
-- Clear codes and module configuration
-- Applied mathematics not just as a theory
-- Prefer to automate repetitive tasks
+- Data Engineering to discover the meaningful ones
+- Deployment `TFLite`, `TF-Serving`,
+- python backend ✨`FastAPI`, 
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
