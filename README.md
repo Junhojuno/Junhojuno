@@ -20,7 +20,7 @@ I like to define problems by myself and work in a goal-oriented way.
 - Re-identify the objects from different camera(on robot).
 
 ### Interested in 🔭
-- Data Engineering to discover the meaningful ones
+- Efficient ML pipeline `MLOps`
 - Deployment `TFLite`, `TF-Serving`,
 - python backend ✨`FastAPI`, 
 
