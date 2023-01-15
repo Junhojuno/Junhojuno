@@ -9,20 +9,15 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-### Introduce 👋
-This is Junho Kim, a 3rd year ML Engineer who is struggling in the field of computer vision. <br>
-At first, I watched this field just interesting and fun. but recently, I'm looking into the tech from the perspective of what value can be created in business :)
-I like to define problems by myself and work in a goal-oriented way.
+### Machin Learning Engineer, Computer Vision 👋
+- 4th year engineer and work for healthcare service.
+- focus on improving model quality so that users feel satified.
+- stay modest(to others), stay rigorous(to myself)
 
-### Experienced 🤔
-- Find and Tracking missing person in multi-camera multi-object environment.
-- Detect unexpected & dangerous situation in tunnels and construction sites.
-- Re-identify the objects from different camera(on robot).
-
-### Interested in 🔭
-- Efficient ML pipeline `MLOps`
-- Deployment `TFLite`, `TF-Serving`,
-- python backend ✨`FastAPI`, 
+### Interests 🔭
+- Model optimizations
+- On-device ML, Mobile deployment
+- Edge ML, Tiny ML
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
