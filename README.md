@@ -16,6 +16,5 @@
 - Self-Motivative, always want to be better engineer
 
 ### Interests 🔭
-- Model optimizations
-- On-device ML, Mobile deployment
-- Edge ML, Tiny ML
+- Model optimizations, deployment
+- Real-time service on Mobile / Edge devices
