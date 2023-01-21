@@ -12,9 +12,9 @@
 ### Machin Learning Engineer, Computer Vision 👋
 - 4th year engineer and work for healthcare service.
 - Work hard for service users to feel satified.
-- Print a fact in my mind that an answer is in the data
-- Self-Motivative, always want to be better engineer
+- Print a fact in my mind that an answer is in the data.
+- Self-Motivative, always want to be better engineer.
 
 ### Interests 🔭
-- Model optimizations, deployment
-- Real-time service on Mobile / Edge devices
+- Model optimizations, deployment.
+- Real-time service on Mobile / Edge devices.
