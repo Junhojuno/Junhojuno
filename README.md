@@ -11,14 +11,14 @@
 
 ### Machin Learning Engineer, Computer Vision 👋
 - 4th year engineer and work for healthcare service.
-- focus on improving model quality so that users feel satified.
-- stay modest(to others), stay rigorous(to myself)
+- Work hard for service users to feel satified.
+- Print a fact in my mind that an answer is in the data
+- Self-Motivative, always want to be better engineer
 
 ### Interests 🔭
 - Model optimizations
 - On-device ML, Mobile deployment
 - Edge ML, Tiny ML
-- Self-Motivation, How to be better engineer
 
 [![Juno's github stats](https://github-readme-stats.vercel.app/api?username=Junhojuno)](https://github.com/anuraghazra/github-readme-stats)
 
