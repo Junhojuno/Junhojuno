@@ -9,7 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-### Machin Learning Engineer, Computer Vision 👋
+### Who am I❓
 - 4th year engineer and work for healthcare service.
 - Work hard for service users to feel satified.
 - Print a fact in my mind that an answer is in the data.
